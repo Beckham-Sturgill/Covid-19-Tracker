@@ -1,5 +1,5 @@
 # Covid-19-Tracker
-
+### Below is a demo of my Covid-19 Tracker backed by CDC data.
 
 <img src="Images/home.png">
 
